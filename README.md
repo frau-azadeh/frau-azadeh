@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there! 👩🏻‍💻 I'm Azadeh
 
-<!--
-**frau-azadeh/frau-azadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌻 Senior Front-End Developer 🌻
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies & Tools I Use
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Website](https://sunflower-dev.com)
+- 📧 [Email](designweb.azadeh@gmail.com)
