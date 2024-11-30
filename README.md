@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 
 ---
 
-## 🚀 Technologies & Tools I Use
+## ⚡ Technologies & Tools I Use
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -16,7 +16,16 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 
 ---
 
+## 🚀 Deployment
+# 📝 **Task Management Project**
+The project is live on [Vercel](https://task-psi-livid.vercel.app/login) 🌐 
+# 🌦️ Weather Dashboard
+The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐. 
+
+---
+
 ## 📫 Let's Connect!
 
 - 🌐 [Website](https://sunflower-dev.com)
 - 📧 [Email](designweb.azadeh@gmail.com)
+
