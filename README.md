@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 ## 🚀 Deployment
 
 # 🌻 **Sunflower Website**
-The project is live on [Vercel]((https://sunflowerdev.vercel.app/)) 🌐 
+The project is live on [Vercel](https://sunflowerdev.vercel.app/) 🌐 
 
 ---
 
