@@ -23,6 +23,12 @@ The project is live on [Vercel](https://sunflowerdev.vercel.app/) 🌐
 
 ---
 
+# 📈 **Finance Dashboard**
+The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) 🌐 
+
+
+---
+
 # 📝 **Task Management Project**
 The project is live on [Vercel](https://task-psi-livid.vercel.app/login) 🌐 
 
