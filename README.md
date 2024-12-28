@@ -29,7 +29,7 @@ The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) �
 ---
 
 # Mein-Arzt  🩺 Your Personal Medical Assistant
-The project is live on [vercel] (https://mein-arzt.vercel.app/)🌐
+The project is live on [vercel](https://mein-arzt.vercel.app/)🌐
 
 ---
 
