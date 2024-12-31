@@ -22,7 +22,10 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 The project is live on [Vercel](https://sunflowerdev.vercel.app/) 🌐 
 
 ---
+# 🍔 Just Food
+The project is live on [Github](https://github.com/frau-azadeh/just-food) 🌐 
 
+---
 # 📈 **Finance Dashboard**
 The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) 🌐 
 
@@ -38,10 +41,7 @@ The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐
 
 ---
 
-# 📝 **Task Management Project**
-The project is live on [Vercel](https://task-psi-livid.vercel.app/login) 🌐 
 
----
 
 
 ## 📫 Let's Connect!
