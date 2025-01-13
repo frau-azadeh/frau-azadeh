@@ -1,4 +1,4 @@
-Hi there! 👩🏻‍💻 I'm Azadeh
+Hi there! I'm Azadeh
 
 🌻 Senior Front-End Developer 🌻
 
