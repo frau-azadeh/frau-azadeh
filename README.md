@@ -1,6 +1,6 @@
 Hi there! I'm Azadeh
 
-🌻 Senior Front-End Developer 🌻
+🌻 Front-End Developer 🌻
 
 Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
