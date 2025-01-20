@@ -5,6 +5,8 @@ Hi there! I'm Azadeh
 Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
 ---
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frau-azadeh)
 
 ## ⚡ Technologies & Tools I Use
 
