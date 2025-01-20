@@ -42,9 +42,10 @@ The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐
 ---
 
 ## 🔥 GitHub Streak Stats
-![GitHub stats]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&layout=compact)
-(https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true)
+
 
 ---
 ## 📫 Let's Connect!
