@@ -5,8 +5,6 @@ Hi there! I'm Azadeh
 Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
 ---
-## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frau-azadeh)
 
 ## ⚡ Technologies & Tools I Use
 
@@ -43,9 +41,12 @@ The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐
 
 ---
 
+## 🔥 GitHub Streak Stats
+![GitHub stats]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&layout=compact)
+(https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true)
 
-
-
+---
 ## 📫 Let's Connect!
 
 - 🌐 [Website](https://sunflower-dev.com)
