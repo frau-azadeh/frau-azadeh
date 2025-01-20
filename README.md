@@ -25,7 +25,7 @@ The project is live on [Vercel](https://sunflowerdev.vercel.app/) 🌐
 
 ---
 # 🍔 Just Food
-The project is live on [Github](https://github.com/frau-azadeh/just-food) 🌐 
+The project is live on [Vercel](https://just-food5.vercel.app/) 🌐 
 
 ![Menu View](https://github.com/frau-azadeh/just-food/blob/master/desk-article.png)
 
