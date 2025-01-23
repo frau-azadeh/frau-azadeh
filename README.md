@@ -54,7 +54,7 @@ The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐
 ## 🔥 GitHub Streak Stats
 ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frau-azadeh&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frau-azadeh&theme=tokyonight&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&theme=radical)
 
