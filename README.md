@@ -58,6 +58,7 @@ The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
