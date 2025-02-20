@@ -37,12 +37,6 @@ The project is live on [Vercel](https://crm-rho-henna.vercel.app/) 🌐
 ![Crm View](https://github.com/frau-azadeh/crm/blob/master/crm.png)
 
 ---
-# 📈 **Finance Dashboard**
-The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) 🌐 
-
-![Dashboard View](https://github.com/frau-azadeh/finance-bourse/blob/master/dashboard.png)
-
----
 
 # Mein-Arzt  🩺 Your Personal Medical Assistant
 The project is live on [vercel](https://mein-arzt.vercel.app/)🌐
@@ -55,6 +49,13 @@ The project is live on [vercel](https://mein-arzt.vercel.app/)🌐
 The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐 
 
 ![Desktop View](https://github.com/frau-azadeh/dashboard-weather/blob/master/desk-weather.png)
+
+
+---
+# 📈 **Finance Dashboard**
+The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) 🌐 
+
+![Dashboard View](https://github.com/frau-azadeh/finance-bourse/blob/master/dashboard.png)
 
 ---
 
