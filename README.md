@@ -4,8 +4,9 @@ Hi there! I'm Azadeh
 
 Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Lifelong+Learner" alt="Typing SVG" />
+</p>
 ---
 
 ## ⚡ Technologies & Tools I Use
