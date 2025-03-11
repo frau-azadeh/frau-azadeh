@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
-![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=purple)
 
 
 
