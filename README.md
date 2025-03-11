@@ -4,6 +4,8 @@ Hi there! I'm Azadeh
 
 Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+
 ---
 
 ## ⚡ Technologies & Tools I Use
