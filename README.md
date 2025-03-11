@@ -7,27 +7,15 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 ---
 
 ## ⚡ Technologies & Tools I Use
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white&labelColor=20232a)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white&labelColor=333)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&labelColor=1E293B)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=1E293B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=323330)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=plastic&logo=redux&logoColor=white&labelColor=3E275B)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=plastic&logo=react-query&logoColor=white&labelColor=8B0000)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
-![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2) 
-
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
 
 ---
 
