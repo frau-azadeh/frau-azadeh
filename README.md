@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2) 
 
