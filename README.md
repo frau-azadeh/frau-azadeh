@@ -23,45 +23,54 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 
 ---
 
-## 🚀 Deployment
+## 🚀 Deployment Projects
 
-### 🌻 **Sunflower Website**
-The project is live on [Vercel](https://sunflowerdev.vercel.app/) 🌐 
+<div align="center" style="width: 100%;">
 
-![Desktop View](https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png)
+<table style="width: 100%;">
+  <thead>
+    <tr>
+      <th align="left">Project Name</th>
+      <th align="left">Live Demo 🌐</th>
+      <th align="center">Preview 🖼️</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌻 Sunflower Website</td>
+      <td><a href="https://sunflowerdev-dev.com">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td>🍔 Just Food</td>
+      <td><a href="https://just-food5.vercel.app/">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/just-food/blob/master/desk-article.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td>🏢 CRM System</td>
+      <td><a href="https://crm-rho-henna.vercel.app/">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/crm/blob/master/crm.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td>🩺 Mein-Arzt</td>
+      <td><a href="https://mein-arzt.vercel.app/">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/diabland.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td>🌦️ Weather Dashboard</td>
+      <td><a href="https://weather-ashy-three-72.vercel.app/">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/dashboard-weather/blob/master/desk-weather.png" width="100%"/></td>
+    </tr>
+    <tr>
+      <td>📈 Finance Dashboard</td>
+      <td><a href="https://github.com/frau-azadeh/finance-bourse">Repo</a></td>
+      <td><img src="https://github.com/frau-azadeh/finance-bourse/blob/master/dashboard.png" width="100%"/></td>
+    </tr>
+  </tbody>
+</table>
 
----
-### 🍔 Just Food
-The project is live on [Vercel](https://just-food5.vercel.app/) 🌐 
+</div>
 
-![Menu View](https://github.com/frau-azadeh/just-food/blob/master/desk-article.png)
-
----
-### 🏢 CRM System
-The project is live on [Vercel](https://crm-rho-henna.vercel.app/) 🌐
-
-![Crm View](https://github.com/frau-azadeh/crm/blob/master/crm.png)
-
----
-
-### Mein-Arzt  🩺 Your Personal Medical Assistant
-The project is live on [vercel](https://mein-arzt.vercel.app/)🌐
-
-![Diabland View](https://github.com/frau-azadeh/sunflowerdev/blob/main/diabland.png)
-
----
-
-### 🌦️ Weather Dashboard
-The project is live on [Vercel](https://weather-ashy-three-72.vercel.app/) 🌐 
-
-![Desktop View](https://github.com/frau-azadeh/dashboard-weather/blob/master/desk-weather.png)
-
-
----
-# 📈 **Finance Dashboard**
-The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) 🌐 
-
-![Dashboard View](https://github.com/frau-azadeh/finance-bourse/blob/master/dashboard.png)
 
 ---
 
@@ -73,6 +82,15 @@ The project is live on [Github](https://github.com/frau-azadeh/finance-bourse) �
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
 
 ---
+
+## 🏅 My GitHub Achievements
+
+![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-13th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
+&nbsp;
+![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-Top%20Performer%20🔥-e63946?style=flat&logo=github&logoColor=white)
+
+---
+
 ## 📫 Let's Connect!
 
 - 🌐 [Website](https://sunflower-dev.com)
