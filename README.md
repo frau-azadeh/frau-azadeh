@@ -1,11 +1,14 @@
-Hi there! I'm Azadeh
 
-🌻 Front-End Developer 🌻
+<div align="left">
 
-Welcome to my GitHub! I'm a developer who loves exploring new technologies and crafting user-friendly, beautiful web applications. Currently focused on learning and building with modern JavaScript frameworks and libraries.
+🌻 **Hi, I'm Azadeh** – A passionate Front-End Developer from Iran 🇮🇷  
+🎯 I specialize in building **beautiful, fast, and accessible** web apps  
+🚀 Currently working with **React, Next.js, TypeScript & Tailwind**
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -88,6 +91,24 @@ Welcome to my GitHub! I'm a developer who loves exploring new technologies and c
 ![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-13th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
 &nbsp;
 ![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-Top%20Performer%20🔥-e63946?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📚 Articles & Writings
+
+I enjoy sharing what I learn about frontend development, design principles, and practical coding tips.  
+Here are some of the articles I've published on [Medium](https://medium.com/@designweb.azadeh):
+
+- [🧠 What is React Forget and Why It Matters](https://medium.com/@designweb.azadeh/what-is-react-forget-and-why-it-matters-7a9823e0877f)  
+  A simple breakdown of React Forget and how it impacts rendering and performance.
+
+- [🔄 State Persistence in React Apps with Redux Persist](https://medium.com/@designweb.azadeh/state-persistence-in-react-apps-with-redux-persist-37a29f5c8fd1)  
+  How to keep your Redux state intact across refreshes and app restarts.
+
+- [⚙️ Static Button Component: Static vs Dynamic Components in React + TypeScript](https://medium.com/@designweb.azadeh/static-button-componentstatic-vs-dynamic-components-in-react-and-typescript-29a0c09e1f49)  
+  A practical comparison of static and dynamic components, and when to use each.
+
+➡️ [View all articles on Medium »](https://medium.com/@designweb.azadeh)
 
 ---
 
