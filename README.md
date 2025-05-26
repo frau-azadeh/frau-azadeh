@@ -41,7 +41,7 @@
   <tbody>
     <tr>
       <td>🌻 Sunflower Website</td>
-      <td><a href="https://sunflowerdev-dev.com">Live</a></td>
+      <td><a href="https://sunflower-dev.com">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
     </tr>
     <tr>
