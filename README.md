@@ -44,7 +44,7 @@
     <tr>
       <td>🌻 Sunflower Website</td>
       <td><a href="https://resume-app-swart.vercel.app/">Live</a></td>
-      <td><img src="" width="100%"/></td>
+      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
     </tr>
     <tr>
       <td>📄 Resume App</td>
