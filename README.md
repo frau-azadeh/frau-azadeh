@@ -49,7 +49,7 @@
     <tr>
       <td>📄 Resume App</td>
       <td><a href="https://sunflower-dev.com">Live</a></td>
-      <td><img src="https://github.dev/frau-azadeh/resume-app/blob/master/public/information.png" width="100%"/></td>
+      <td><img src="https://github.dev/frau-azadeh/resume-app/blob/master/information.png" width="100%"/></td>
     </tr>
     <tr>
       <td>📍🇩🇪 Vehicle Hamburg</td>
