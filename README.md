@@ -43,13 +43,13 @@
   <tbody>
     <tr>
       <td>🌻 Sunflower Website</td>
-      <td><a href="https://resume-app-swart.vercel.app/">Live</a></td>
+      <td><a href="https://sunflower-dev.com">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
     </tr>
     <tr>
       <td>📄 Resume App</td>
-      <td><a href="https://sunflower-dev.com">Live</a></td>
-      <td><img src="https://github.dev/frau-azadeh/resume-app/blob/master/information.png" width="100%"/></td>
+      <td><a href="https://resume-app-swart.vercel.app/">Live</a></td>
+      <td><img src="https://raw.githubusercontent.com/frau-azadeh/resume-app/master/public/information.png" width="100%"/></td>
     </tr>
     <tr>
       <td>📍🇩🇪 Vehicle Hamburg</td>
