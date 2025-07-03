@@ -1,7 +1,6 @@
 
 <div align="left">
 
-
 🌻 **Hi, I'm Azadeh** – A passionate Front-End Developer from Iran ❤️🤍💚
 
 🎯 I specialize in building **beautiful, fast, and accessible** web apps  
