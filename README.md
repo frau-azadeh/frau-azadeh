@@ -120,6 +120,8 @@ Here are some of the articles I've published on [Medium](https://medium.com/@des
 - [⚙️ Static Button Component: Static vs Dynamic Components in React + TypeScript](https://medium.com/@designweb.azadeh/static-button-componentstatic-vs-dynamic-components-in-react-and-typescript-29a0c09e1f49)  
   A practical comparison of static and dynamic components, and when to use each.
 
+  
+
 ➡️ [View all articles on Medium »](https://medium.com/@designweb.azadeh)
 
 ---
