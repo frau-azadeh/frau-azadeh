@@ -7,6 +7,8 @@
 
 🚀 Currently working with **React, Next.js, TypeScript & Tailwind**
 
+🧩 Also developing full-stack projects using C# and ASP.NET Core 8 for scalable and high-performance back-end solutions
+
 </div>
 
 <p align="center">
