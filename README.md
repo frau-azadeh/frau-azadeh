@@ -100,7 +100,7 @@
 
 ## 🏅 My GitHub Achievements
 
-![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-7th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
+![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-6th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
 &nbsp;
 ![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-Top%20Performer%20🔥-e63946?style=flat&logo=github&logoColor=white)
 
