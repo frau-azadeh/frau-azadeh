@@ -67,9 +67,9 @@
       <td><img src="https://github.com/frau-azadeh/just-food/blob/master/desk-article.png" width="100%"/></td>
     </tr>
     <tr>
-      <td>🏢 CRM System</td>
-      <td><a href="https://crm-rho-henna.vercel.app/">Live</a></td>
-      <td><img src="https://github.com/frau-azadeh/crm/blob/master/crm.png" width="100%"/></td>
+      <td>🏢 CRM Tiketing</td>
+      <td><a href="https://supportticketsystem.onrender.com/">Live</a></td>
+      <td><img src="https://github.com/frau-azadeh/api/blob/master/tiketing.png" width="100%"/></td>
     </tr>
     <tr>
       <td>🩺 Mein-Arzt</td>
