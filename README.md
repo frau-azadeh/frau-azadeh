@@ -25,10 +25,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=323330)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=plastic&logo=redux&logoColor=white&labelColor=3E275B)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=plastic&logo=react-query&logoColor=white&labelColor=8B0000)
-![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&labelColor=2D2D30)
-![ASP.NET Core 8](https://img.shields.io/badge/ASP.NET%20Core%208-512BD4?style=plastic&logo=.net&logoColor=white&labelColor=1B1F23)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
+
+| 🧠 Language / Tool      | 💼 Main Usage                                 | 📈 Proficiency             |
+|------------------------|-----------------------------------------------|----------------------------|
+| **React ⚛️**            | Component-based UI development                | ⭐⭐⭐⭐☆ (Advanced)           |
+| **Next.js 🧭**          | SSR/SSG, routing, full-stack React apps       | ⭐⭐⭐⭐☆ (Advanced)           |
+| **Tailwind CSS 💨**     | Utility-first responsive UI styling           | ⭐⭐⭐⭐⭐ (Expert)             |
+| **TypeScript 🧠**       | Type-safe JavaScript development              | ⭐⭐⭐⭐⭐ (Expert)             |
+| **Redux Toolkit 🧰**    | State management for scalable apps            | ⭐⭐⭐⭐☆ (Advanced)           |
+| **JavaScript ✨**       | Dynamic interfaces, SPA logic                 | ⭐⭐⭐⭐☆ (Advanced)           |
 
 
 ---
@@ -100,6 +107,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=frau-azadeh&theme=radical)
 
 ---
 
