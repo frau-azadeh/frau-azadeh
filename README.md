@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=45&lines=Hi+I'm+Azadeh+%F0%9F%8C%BB;Front-end+Developer+from+Iran+%E2%9D%A4%EF%B8%8F;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
+</p>
 
 <div align="left">
 
@@ -7,13 +10,7 @@
 
 🚀 Currently working with **React, Next.js, TypeScript & Tailwind**
 
-🧩 Also developing full-stack projects using C# and ASP.NET Core 8 for scalable and high-performance back-end solutions
-
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
 
 ---
 
