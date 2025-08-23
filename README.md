@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=323330)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=plastic&logo=redux&logoColor=white&labelColor=3E275B)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=plastic&logo=react-query&logoColor=white&labelColor=8B0000)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white&labelColor=1E293B)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
 
@@ -33,6 +34,7 @@
 | **TypeScript 🧠**       | Type-safe JavaScript development              | ⭐⭐⭐⭐⭐ (Expert)             |
 | **Redux Toolkit 🧰**    | State management for scalable apps            | ⭐⭐⭐⭐☆ (Advanced)           |
 | **JavaScript ✨**       | Dynamic interfaces, SPA logic                 | ⭐⭐⭐⭐☆ (Advanced)           |
+| **Supabase 🗄️**         | Backend-as-a-Service, Database, Auth, Realtime | ⭐⭐⭐⭐☆ (Advanced)           |
 
 
 ---
