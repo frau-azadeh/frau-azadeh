@@ -84,11 +84,6 @@
       <td><img src="https://github.com/frau-azadeh/api/blob/master/tiketing.png" width="100%"/></td>
     </tr>
     <tr>
-      <td>🩺 Mein-Arzt</td>
-      <td><a href="https://mein-arzt.vercel.app/">Live</a></td>
-      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/diabland.png" width="100%"/></td>
-    </tr>
-    <tr>
       <td>🌦️ Weather Dashboard</td>
       <td><a href="https://weather-ashy-three-72.vercel.app/">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/dashboard-weather/blob/master/desk-weather.png" width="100%"/></td>
