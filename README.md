@@ -59,7 +59,7 @@
     </tr>
     <tr>
     <tr>
-      <td>Flower Shop</td>
+      <td>💐 Flower Shop</td>
       <td><a href="https://flower-shop-beta-taupe.vercel.app/">Live</a></td>
       <td><img src="https://raw.githubusercontent.com/frau-azadeh/flower-shop/master/public/7.png" width="100%"/></td>
     </tr>
