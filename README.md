@@ -58,6 +58,12 @@
       <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
     </tr>
     <tr>
+    <tr>
+      <td>Flower Shop</td>
+      <td><a href="https://flower-shop-beta-taupe.vercel.app/">Live</a></td>
+      <td><img src="https://raw.githubusercontent.com/frau-azadeh/flower-shop/master/public/7.png" width="100%"/></td>
+    </tr>
+    <tr>
       <td>📄 Resume App</td>
       <td><a href="https://resume-app-swart.vercel.app/">Live</a></td>
       <td><img src="https://raw.githubusercontent.com/frau-azadeh/resume-app/master/public/information.png" width="100%"/></td>
