@@ -114,9 +114,13 @@
 
 ## 🏅 My GitHub Achievements
 
-![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-6th%20in%20Iran-%237f3fbf?style=flat&logo=github&logoColor=white)
-&nbsp;
-![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-Top%20Performer%20🔥-e63946?style=flat&logo=github&logoColor=white)
+<!-- Committers.top Badge -->
+[![Committers.top badge](https://user-badge.committers.top/iran_private/frau-azadeh.svg)](https://user-badge.committers.top/iran_private/frau-azadeh)
+
+<!-- GitHub Rank & Top Performer -->
+![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-6th%20in%20Iran-%237F3FBF?style=for-the-badge&logo=github&logoColor=white)
+![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-🔥%20Top%20Performer-e63946?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
