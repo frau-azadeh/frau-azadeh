@@ -120,11 +120,10 @@
 ## 🏅 My GitHub Achievements
 
 <!-- Committers.top Badge -->
-[![Committers.top badge](https://user-badge.committers.top/iran_private/frau-azadeh.svg)](https://user-badge.committers.top/iran_private/frau-azadeh)
+[![🇮🇷 Committers.top Iran (All)](https://user-badge.committers.top/iran/frau-azadeh.svg?style=for-the-badge&color=purple)](https://user-badge.committers.top/iran/frau-azadeh)
+[![🇮🇷 Committers.top Iran (Public)](https://user-badge.committers.top/iran_public/frau-azadeh.svg?style=for-the-badge&color=red)](https://user-badge.committers.top/iran_public/frau-azadeh)
+[![🇮🇷 Committers.top Iran (Private)](https://user-badge.committers.top/iran_private/frau-azadeh.svg?style=for-the-badge&color=yellow)](https://user-badge.committers.top/iran_private/frau-azadeh)
 
-<!-- GitHub Rank & Top Performer -->
-![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-6th%20in%20Iran-%237F3FBF?style=for-the-badge&logo=github&logoColor=white)
-![Top Performer](https://img.shields.io/badge/Public%20+%20Private%20Contributions-🔥%20Top%20Performer-e63946?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
