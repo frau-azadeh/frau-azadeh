@@ -12,6 +12,10 @@
 
 </div>
 
+<p align="left">
+👩🏻‍💻 Front-End Developer specialized in React & Next.js, passionate about building user-centric web applications. Looking for opportunities to contribute to modern web projects and grow within innovative teams.
+</p>
+
 ---
 
 ## ⚡ Technologies & Tools I Use
@@ -130,6 +134,13 @@
 
 
 
+---
+
+## 🤝 Soft Skills
+- Teamwork & Collaboration  
+- Problem-Solving & Debugging  
+- Agile & Scrum Workflow  
+- Communication & Knowledge Sharing  
 ---
 
 ## 📚 Articles & Writings
