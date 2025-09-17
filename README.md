@@ -111,9 +111,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Most Starred Repos](https://github-contributor-stats.vercel.app/api?username=frau-azadeh&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=frau-azadeh&theme=radical)
+
+
 
 ---
 
