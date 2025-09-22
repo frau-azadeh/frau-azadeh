@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>📄 Resume App</td>
-      <td><a href="https://resume-app-swart.vercel.app/">Live</a></td>
+      <td><a href="https://resume-app-three-mu.vercel.app/">Live</a></td>
       <td><img src="https://raw.githubusercontent.com/frau-azadeh/resume-app/master/public/information.png" width="100%"/></td>
     </tr>
     <tr>
