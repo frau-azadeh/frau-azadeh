@@ -32,19 +32,20 @@
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
 
-| 🧠 Language / Tool      | 💼 Main Usage                                 | 📈 Proficiency             |
-|------------------------|-----------------------------------------------|----------------------------|
-| **React ⚛️**            | Component-based UI development                | ⭐⭐⭐⭐☆ (Advanced)           |
-| **Next.js 🧭**          | SSR/SSG, routing, full-stack React apps       | ⭐⭐⭐⭐☆ (Advanced)           |
-| **Tailwind CSS 💨**     | Utility-first responsive UI styling           | ⭐⭐⭐⭐⭐ (Expert)             |
-| **TypeScript 🧠**       | Type-safe JavaScript development              | ⭐⭐⭐⭐⭐ (Expert)             |
-| **Redux Toolkit 🧰**    | State management for scalable apps            | ⭐⭐⭐⭐☆ (Advanced)           |
-| **JavaScript ✨**       | Dynamic interfaces, SPA logic                 | ⭐⭐⭐⭐☆ (Advanced)           |
-| **Supabase 🗄️**         | Backend-as-a-Service, Database, Auth, Realtime | ⭐⭐⭐⭐☆ (Advanced)           |
-| **React Hook Form 📝**  | Form handling with validation                 | ⭐⭐⭐⭐⭐ (Expert)           |
-| **Zod 🛡️**              | Schema validation & type-safe data parsing    | ⭐⭐⭐⭐⭐ (Expert)           |
+## 🧰 Tech Stack & Skills
 
-
+| 🧠 **Language / Tool**     | 💼 **Main Usage**                                  | 📊 **Proficiency**         |
+|----------------------------|----------------------------------------------------|-----------------------------|
+| ⚛️ **React**               | 🌐 Component-based UI development                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🧭 **Next.js**             | 🚀 SSR/SSG, routing, full-stack React apps         | ⭐⭐⭐⭐☆ (Advanced)           |
+| 💨 **Tailwind CSS**        | 🎨 Utility-first responsive UI styling            | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🧠 **TypeScript**         | 📝 Type-safe JavaScript development               | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🧰 **Redux Toolkit**       | 🌍 Scalable state management                      | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🔍 **TanStack Query**      | 🔄 Server state management & data fetching         | ⭐⭐⭐⭐☆ (Advanced)           |
+| ✨ **JavaScript**         | 🧭 Dynamic interfaces, SPA logic                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🗄️ **Supabase**           | 🔐 BaaS, Database, Auth, Realtime                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 📝 **React Hook Form**    | ✅ Form handling with validation                   | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🛡️ **Zod**               | 🧪 Schema validation & type-safe data parsing     | ⭐⭐⭐⭐⭐ (Expert)             |
 
 ---
 
