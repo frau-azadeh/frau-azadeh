@@ -79,29 +79,14 @@
       <td><img src="https://raw.githubusercontent.com/frau-azadeh/resume-app/master/public/information.png" width="100%"/></td>
     </tr>
     <tr>
-      <td>📍🇩🇪 Vehicle Hamburg</td>
-      <td><a href="https://vehicle-hamburg.vercel.app">Live</a></td>
-      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/vehicles.png" width="100%"/></td>
-    </tr>
-    <tr>
       <td>🍔 Just Food</td>
       <td><a href="https://just-food5.vercel.app/">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/just-food/blob/master/desk-article.png" width="100%"/></td>
     </tr>
     <tr>
-      <td>🏢 CRM Tiketing</td>
-      <td><a href="https://supportticketsystem.onrender.com/">Live</a></td>
-      <td><img src="https://github.com/frau-azadeh/api/blob/master/tiketing.png" width="100%"/></td>
-    </tr>
-    <tr>
       <td>🌦️ Weather Dashboard</td>
       <td><a href="https://weather-ashy-three-72.vercel.app/">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/dashboard-weather/blob/master/desk-weather.png" width="100%"/></td>
-    </tr>
-    <tr>
-      <td>📈 Finance Dashboard</td>
-      <td><a href="https://github.com/frau-azadeh/finance-bourse">Repo</a></td>
-      <td><img src="https://github.com/frau-azadeh/finance-bourse/blob/master/dashboard.png" width="100%"/></td>
     </tr>
   </tbody>
 </table>
