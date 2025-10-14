@@ -32,6 +32,8 @@
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
 
+---
+
 ## 🧰 Tech Stack & Skills
 
 | 🧠 **Language / Tool**     | 💼 **Main Usage**                                  | 📊 **Proficiency**         |
