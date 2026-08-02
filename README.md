@@ -23,6 +23,10 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white&labelColor=333)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&labelColor=1E293B)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=1E293B)
+![Zustand](https://img.shields.io/badge/-Zustand-444444?style=plastic&logo=pm2&logoColor=white&labelColor=000000)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=plastic&logo=dotnet&logoColor=white&labelColor=1E293B)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white&labelColor=1E293B)
+![k6](https://img.shields.io/badge/-k6-7D64FF?style=plastic&logo=k6&logoColor=white&labelColor=1E293B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=323330)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=plastic&logo=redux&logoColor=white&labelColor=3E275B)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=plastic&logo=reacthookform&logoColor=white&labelColor=1E293B)
@@ -31,6 +35,27 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white&labelColor=1E293B)
 [![wakatime](https://wakatime.com/badge/user/2166a209-70a3-47e3-b489-2fee9badf155.svg)](https://wakatime.com/@2166a209-70a3-47e3-b489-2fee9badf155)
 ![Profile Views](https://komarev.com/ghpvc/?username=frau-azadeh&color=8A2BE2&style=plastic)
+
+---
+
+## 🧰 Tech Stack & Skills
+
+| 🧠 **Language / Tool**     | 💼 **Main Usage**                                  | 📊 **Proficiency**         |
+|----------------------------|----------------------------------------------------|-----------------------------|
+| ⚛️ **React**               | 🌐 Component-based UI development                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🧭 **Next.js**             | 🚀 SSR/SSG, routing, full-stack React apps         | ⭐⭐⭐⭐☆ (Advanced)           |
+| 💨 **Tailwind CSS**        | 🎨 Utility-first responsive UI styling            | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🧠 **TypeScript**         | 📝 Type-safe JavaScript development               | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🐻 **Zustand**             | 📦 Lightweight state management                   | ⭐⭐⭐☆☆ (Intermediate)        |
+| 🌐 **ASP.NET Core**        | 🏗️ Backend API & Server-side Logic                | ⭐⭐⭐☆☆ (Intermediate)        |
+| 🗄️ **SQL**                 | 📊 Relational Databases & Querying                | ⭐⭐⭐☆☆ (Intermediate)        |
+| 🧪 **k6**                  | 📉 Performance & Load Testing                     | ⭐⭐⭐☆☆ (Intermediate)        |
+| 🧰 **Redux Toolkit**       | 🌍 Scalable state management                      | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🔍 **TanStack Query**      | 🔄 Server state management & data fetching         | ⭐⭐⭐⭐☆ (Advanced)           |
+| ✨ **JavaScript**         | 🧭 Dynamic interfaces, SPA logic                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 🗄️ **Supabase**           | 🔐 BaaS, Database, Auth, Realtime                  | ⭐⭐⭐⭐☆ (Advanced)           |
+| 📝 **React Hook Form**    | ✅ Form handling with validation                   | ⭐⭐⭐⭐⭐ (Expert)             |
+| 🛡️ **Zod**               | 🧪 Schema validation & type-safe data parsing     | ⭐⭐⭐⭐⭐ (Expert)             |
 
 ---
 
