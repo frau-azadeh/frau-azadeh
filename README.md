@@ -71,12 +71,7 @@
       <th align="center">Preview 🖼️</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>🌻 Sunflower Website</td>
-      <td><a href="https://sunflower-dev.com">Live</a></td>
-      <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/aboutme.png" width="100%"/></td>
-    </tr>
+  <tbody/>
     <tr>
       <td>📄 Employee</td>
       <td><a href="https://employee.hamiransteel.com/employees/consent/">Live</a></td>
