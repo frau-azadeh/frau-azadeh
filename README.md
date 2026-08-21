@@ -101,18 +101,19 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frau-azadeh&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 💻 Most Used Languages
 
-![Most Starred Repos](https://github-contributor-stats.vercel.app/api?username=frau-azadeh&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frau-azadeh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frau-azadeh&theme=radical" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=frau-azadeh&theme=radical)
+## 📈 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=frau-azadeh&theme=radical)
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frau-azadeh&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
