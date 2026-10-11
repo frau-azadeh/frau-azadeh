@@ -117,17 +117,6 @@
 
 ---
 
-## 🏅 My GitHub Achievements
-
-<!-- Committers.top Badge -->
-[![🇮🇷 Committers.top Iran (All)](https://user-badge.committers.top/iran/frau-azadeh.svg?style=for-the-badge&color=purple)](https://user-badge.committers.top/iran/frau-azadeh)
-[![🇮🇷 Committers.top Iran (Public)](https://user-badge.committers.top/iran_public/frau-azadeh.svg?style=for-the-badge&color=red)](https://user-badge.committers.top/iran_public/frau-azadeh)
-[![🇮🇷 Committers.top Iran (Private)](https://user-badge.committers.top/iran_private/frau-azadeh.svg?style=for-the-badge&color=yellow)](https://user-badge.committers.top/iran_private/frau-azadeh)
-
-
-
----
-
 ## 🤝 Soft Skills
 - Teamwork & Collaboration  
 - Problem-Solving & Debugging  
