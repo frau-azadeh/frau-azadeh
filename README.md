@@ -109,12 +109,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frau-azadeh&theme=radical" />
 </p>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frau-azadeh&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ## 🤝 Soft Skills
