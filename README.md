@@ -71,13 +71,12 @@
       <th align="center">Preview 🖼️</th>
     </tr>
   </thead>
-  <tbody/>
+  <tbody>
     <tr>
       <td>📄 Employee</td>
       <td><a href="https://employee.hamiransteel.com/employees/consent/">Live</a></td>
       <td><img src="https://github.com/frau-azadeh/sunflowerdev/blob/main/linkedin.png" width="100%"/></td>
     </tr>
-    <tr>
     <tr>
       <td>💐 Flower Shop</td>
       <td><a href="https://flower-shop-beta-taupe.vercel.app/">Live</a></td>
@@ -98,15 +97,17 @@
 
 </div>
 
-
 ---
-
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frau-azadeh&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frau-azadeh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&hide_rank=false&rank_icon=default&theme=radical&title_color=F75C7E&icon_color=F75C7E&text_color=E4E2E2&bg_color=00000000&ring_color=F75C7E&hide_border=true" alt="Azadeh's GitHub stats, total stars and rank" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frau-azadeh&theme=github_dark" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frau-azadeh&theme=github_dark" alt="Most committed languages" />
 </p>
 
 ---
@@ -116,6 +117,7 @@
 - Problem-Solving & Debugging  
 - Agile & Scrum Workflow  
 - Communication & Knowledge Sharing  
+
 ---
 
 ## 📚 Articles & Writings
@@ -132,8 +134,6 @@ Here are some of the articles I've published on [Medium](https://medium.com/@des
 - [⚙️ Static Button Component: Static vs Dynamic Components in React + TypeScript](https://medium.com/@designweb.azadeh/static-button-componentstatic-vs-dynamic-components-in-react-and-typescript-29a0c09e1f49)  
   A practical comparison of static and dynamic components, and when to use each.
 
-  
-
 ➡️ [View all articles on Medium »](https://medium.com/@designweb.azadeh)
 
 ---
@@ -144,4 +144,3 @@ Here are some of the articles I've published on [Medium](https://medium.com/@des
 - 📧 [Email](designweb.azadeh@gmail.com)
   
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadeh-sharifi-soltani/)
-
