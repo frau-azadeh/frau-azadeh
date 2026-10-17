@@ -102,7 +102,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&hide_rank=false&rank_icon=default&theme=radical&title_color=F75C7E&icon_color=F75C7E&text_color=E4E2E2&bg_color=00000000&ring_color=F75C7E&hide_border=true" alt="Azadeh's GitHub stats, total stars and rank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frau-azadeh&show_icons=true&hide_rank=false&rank_icon=default&theme=github_dark&hide_border=true" alt="Azadeh's GitHub stats, total stars and rank" />
 </p>
 
 <p align="center">
